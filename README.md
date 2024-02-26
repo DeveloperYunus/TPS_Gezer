@@ -9,7 +9,7 @@
   - Movement with weapon and aim system completed
 
 ### For go video, click on the photo below
-[<img src="https://i.imgur.com/ziwycxR.png" width="80%">](https://www.youtube.com/watch?v=6jDLHt9WUFU&t=5s "Devlog 1 Video")
+[<img src="https://i.imgur.com/ekP0KsK.png" width="80%">](https://www.youtube.com/watch?v=6jDLHt9WUFU&t=5s "Devlog 1 Video")
 
 ----
 
