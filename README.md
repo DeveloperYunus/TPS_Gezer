@@ -1,8 +1,7 @@
 # Avcı
+-----
 
 ### TPS Shooter game.
-
------
 
 ## First Devlog : Movement System
 
@@ -11,6 +10,6 @@
   - Movement with weapon and aim system completed
 
 ### For go video, click on the photo below
-[<img src="https://i.imgur.com/ppuPRZp.png" width="80%">](https://www.youtube.com/watch?v=jBz3K-Id8dw "Devlog 1 Video")
+[<img src="blob:https://imgur.com/40a9869d-81db-4e0c-86a1-771fa28c952c" width="80%">](https://www.youtube.com/watch?v=jBz3K-Id8dw "Devlog 1 Video")
 
 -----
